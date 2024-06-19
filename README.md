@@ -18,6 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yur1d3v/yur1d3v/main/.github/workflows/snake.yml" alt="Snake animation" />
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ###
