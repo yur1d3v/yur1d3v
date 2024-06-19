@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 [![yur1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yur1d3v&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yur1d3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=false&order=2" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yur1d3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=false&order=2" height="190" alt="languages graph"  />
 
 - 🌱 I’m currently learning **Python on Instituto Caldeira**
 
