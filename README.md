@@ -18,6 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yur1d3v/yur1d3v/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yur1d3v/yur1d3v/main/snake.yml" alt="Snake animation" />
 
 ###
