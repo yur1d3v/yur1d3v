@@ -5,7 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yur1d3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=false&order=2" height="155" alt="languages graph"  />
 
-- 🌱 I’m currently learning **Python on Instituto Caldeira**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact: **I'm a born gamer**
 
